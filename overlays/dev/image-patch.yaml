@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
         - name: spring-boot-app
-          image: venkateshadmin/cicd-flow:latest
+          image: venkateshadmin/cicd-flow:9
